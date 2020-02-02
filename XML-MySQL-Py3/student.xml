@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<student>
+	<name> Shubham </name>
+	<department> CSE </department>
+	<roll> 235 </roll>
+	<venue> TechPark </venue>
+	<elective> XML and Webservices </elective>
+	<year> 3 </year>
+</student>
